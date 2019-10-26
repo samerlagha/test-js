@@ -5,4 +5,4 @@ console.log('b: значение переменной ',b);
 console.log( 'a-b = ',(a-b));
 console.log('a+b = ',(a+b));
 console.log('a/b = ',(a/b));
-console.log('a*b = ',(a*b)););
+console.log('a*b = ',(a*b));
